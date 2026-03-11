@@ -1,0 +1,1 @@
+console.log ('Name: Pius Solomon Enechojo', 'Age: 31', 'Favorite Programming Language: Javascript');
