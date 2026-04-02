@@ -1,1 +1,6 @@
-console.log ('Name: Pius Solomon Enechojo', 'Age: 31', 'Favorite Programming Language: Javascript');
+// intro.js
+const name ="Pius"; 
+const age = 25; // Replace with your age
+const favoriteLanguage = "JavaScript"; 
+
+console.log(`Hi, my name is ${name}. I am ${age} years old and my favorite programming language is ${favoriteLanguage}.`);
